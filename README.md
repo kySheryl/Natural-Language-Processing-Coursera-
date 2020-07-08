@@ -1,5 +1,7 @@
 # Natural-Language-Processing-Coursera-
-This is a Natural Language Processing course provided by Coursera. 
+This is a Natural Language Processing course provided by Coursera. You can find it here: https://www.coursera.org/learn/language-processing/
+
+The files provided here are the course assignemnts and projects that I completed.
 
 # A Brief Introduction of the Course:
 This course covers a wide range of tasks in Natural Language Processing from basic to advanced: sentiment analysis, summarization, dialogue state tracking, to name a few. Upon completing, you will be able to recognize NLP tasks in your day-to-day work, propose approaches, and judge what techniques are likely to work well.  The final project is devoted to one of the most hot topics in today’s NLP. You will build your own conversational chat-bot that will assist with search on StackOverflow website. The project will be based on practical assignments of the course, that will give you hands-on experience with such tasks as text classification, named entities recognition, and duplicates detection. 
